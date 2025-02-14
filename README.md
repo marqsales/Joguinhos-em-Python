@@ -1,4 +1,4 @@
-# Joguinhos-em-Python
+# Joguinhos-em-Python utilizando a biblioteca pygame
 
 
 
